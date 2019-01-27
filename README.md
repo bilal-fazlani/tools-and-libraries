@@ -7,8 +7,8 @@
 # mac tools & apps
 
 ## Terminal setup apps
-1. Terminal https://www.iterm2.com/version3.html
-1. fish shell
+1. ITerm2 https://www.iterm2.com/version3.html
+1. fish shell https://fishshell.com/
 1. The Fish Shell Framework https://github.com/oh-my-fish/oh-my-fish
 1. bob the fish (theme) https://blog.devopscomplete.com/fishing-with-bob-the-fish-2decd3a2f87
 
@@ -18,5 +18,8 @@
 
 
 ## GUI apps
-1. gui for git https://git-fork.com/
-1. The modern media player for macOS. https://iina.io/
+1. Fork: gui for git https://git-fork.com/
+1. IINA: The modern media player for macOS. https://iina.io/
+1. Magnet:  window organiser http://magnet.crowdcafe.com
+1. Jetbrains Toolbox : One-stop access to all your coding tools https://www.jetbrains.com/toolbox/
+1. Visual Studio Code : Editor https://code.visualstudio.com/
