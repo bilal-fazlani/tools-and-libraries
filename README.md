@@ -3,6 +3,7 @@
 ## Libraries
 
 1. command line argument parser/cli framework : https://github.com/backuity/clist
+1. scalacache : cahing https://cb372.github.io/scalacache/
 
 # mac tools & apps
 
