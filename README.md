@@ -5,6 +5,10 @@
 1. command line argument parser/cli framework : https://github.com/backuity/clist
 1. scalacache : cahing https://cb372.github.io/scalacache/
 
+## Tools
+
+1. explicit dependencies: https://github.com/cb372/sbt-explicit-dependencies
+
 # mac tools & apps
 
 ## Terminal setup apps
