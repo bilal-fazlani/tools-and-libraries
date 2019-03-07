@@ -9,7 +9,7 @@
 
 1. explicit dependencies: https://github.com/cb372/sbt-explicit-dependencies
 
-# mac tools & apps
+# MacOS Tools & Apps
 
 ## Terminal setup apps
 1. ITerm2 https://www.iterm2.com/version3.html
@@ -28,5 +28,3 @@
 1. Magnet:  window organiser http://magnet.crowdcafe.com
 1. Jetbrains Toolbox : One-stop access to all your coding tools https://www.jetbrains.com/toolbox/
 1. Visual Studio Code : Editor https://code.visualstudio.com/
-
-
