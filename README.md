@@ -28,5 +28,3 @@
 1. Magnet:  window organiser http://magnet.crowdcafe.com
 1. Jetbrains Toolbox : One-stop access to all your coding tools https://www.jetbrains.com/toolbox/
 1. Visual Studio Code : Editor https://code.visualstudio.com/
-
-
