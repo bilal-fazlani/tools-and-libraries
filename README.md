@@ -25,6 +25,7 @@
 ## GUI apps
 1. Fork: gui for git https://git-fork.com/
 1. IINA: The modern media player for macOS. https://iina.io/
+1. droptogif: Convert any video to gif https://github.com/mortenjust/droptogif
 1. Magnet:  window organiser http://magnet.crowdcafe.com
 1. Jetbrains Toolbox : One-stop access to all your coding tools https://www.jetbrains.com/toolbox/
 1. Visual Studio Code : Editor https://code.visualstudio.com/
