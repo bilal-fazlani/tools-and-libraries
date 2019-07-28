@@ -3,7 +3,10 @@
 ## Libraries
 
 1. command line argument parser/cli framework : https://github.com/backuity/clist
+1. caseapp
 1. scalacache : cahing https://cb372.github.io/scalacache/
+1. logging https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2
+
 
 ## Tools
 
@@ -29,3 +32,4 @@
 1. Magnet:  window organiser http://magnet.crowdcafe.com
 1. Jetbrains Toolbox : One-stop access to all your coding tools https://www.jetbrains.com/toolbox/
 1. Visual Studio Code : Editor https://code.visualstudio.com/
+https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2
