@@ -6,10 +6,6 @@
 1. caseapp
 1. scalacache : cahing https://cb372.github.io/scalacache/
 1. logging https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2
-1. coursier (scala) 
-```
-coursier bootstrap com.bilal::httpproxy:0.1-SNAPSHOT -M com.example.Server -o server -f
-```
 
 
 ## Tools
@@ -27,7 +23,10 @@ coursier bootstrap com.bilal::httpproxy:0.1-SNAPSHOT -M com.example.Server -o se
 
 ## CLI apps
 1. bat: A cat(1) clone with wings. https://github.com/sharkdp/bat
-
+1. coursier (scala) 
+```
+coursier bootstrap com.bilal::httpproxy:0.1-SNAPSHOT -M com.example.Server -o server -f
+```
 
 ## GUI apps
 1. Fork: gui for git https://git-fork.com/
