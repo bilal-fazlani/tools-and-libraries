@@ -8,11 +8,15 @@
 1. logging https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2
 
 
-## Tools
+## Plugins
 
 1. explicit dependencies: https://github.com/cb372/sbt-explicit-dependencies
 
-# MacOS Tools & Apps
+# Others
+
+1. https://stackblitz.com/ Create, edit & deploy fullstack apps — in just one click
+
+# Apps
 
 ## Terminal setup apps
 1. ITerm2 https://www.iterm2.com/version3.html
