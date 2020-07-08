@@ -26,11 +26,12 @@
 
 
 ## CLI apps
-1. bat: A cat(1) clone with wings. https://github.com/sharkdp/bat
-1. coursier (scala) 
+- bat: A cat(1) clone with wings. https://github.com/sharkdp/bat
+- coursier (scala)
 ```
 coursier bootstrap com.bilal::httpproxy:0.1-SNAPSHOT -M com.example.Server -o server -f
 ```
+- http-promt: interactive command-line HTTP client featuring autocomplete and syntax highlighting http://http-prompt.com/
 
 ## GUI apps
 1. Fork: gui for git https://git-fork.com/
