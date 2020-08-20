@@ -13,9 +13,9 @@
 1. explicit dependencies: https://github.com/cb372/sbt-explicit-dependencies
 1. sbt-ci-release https://github.com/olafurpg/sbt-ci-release
 
-# Others
+# Deployment
 
-1. https://stackblitz.com/ Create, edit & deploy fullstack apps — in just one click
+1. netlify for static website deployments
 
 # Apps
 
