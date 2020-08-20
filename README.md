@@ -6,6 +6,7 @@
 1. caseapp
 1. scalacache : cahing https://cb372.github.io/scalacache/
 1. logging https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2
+1. pureconfig https://github.com/pureconfig/pureconfig
 
 
 ## Plugins
