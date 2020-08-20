@@ -11,6 +11,7 @@
 ## Plugins
 
 1. explicit dependencies: https://github.com/cb372/sbt-explicit-dependencies
+1. sbt-ci-release https://github.com/olafurpg/sbt-ci-release
 
 # Others
 
