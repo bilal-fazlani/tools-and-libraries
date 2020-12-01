@@ -38,6 +38,7 @@ coursier bootstrap com.bilal::httpproxy:0.1-SNAPSHOT -M com.example.Server -o se
 ## GUI apps
 1. Fork: gui for git https://git-fork.com/
 1. IINA: The modern media player for macOS. https://iina.io/
+1. BitBar: https://github.com/matryer/bitbar
 1. droptogif: Convert any video to gif https://github.com/mortenjust/droptogif
 1. Magnet:  window organiser http://magnet.crowdcafe.com
 1. Jetbrains Toolbox : One-stop access to all your coding tools https://www.jetbrains.com/toolbox/
