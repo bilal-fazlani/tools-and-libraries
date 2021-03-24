@@ -21,6 +21,7 @@
 # Apps
 
 ## Terminal setup apps
+1. Cool Retro Terminal https://github.com/Swordfish90/cool-retro-term
 1. ITerm2 https://www.iterm2.com/version3.html
 1. fish shell https://fishshell.com/
 1. The Fish Shell Framework https://github.com/oh-my-fish/oh-my-fish
