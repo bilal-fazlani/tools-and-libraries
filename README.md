@@ -27,7 +27,8 @@
 3. fish shell https://fishshell.com/
 4. The Fish Shell Framework https://github.com/oh-my-fish/oh-my-fish
 5. bob the fish (theme) https://blog.devopscomplete.com/fishing-with-bob-the-fish-2decd3a2f87
-6. https://www.yippeecode.com/topics/upgrade-to-openjdk-temurin-using-homebrew/
+6. omf install https://github.com/jhillyerd/plugin-git
+7. https://www.yippeecode.com/topics/upgrade-to-openjdk-temurin-using-homebrew/
 
 
 ## CLI apps
