@@ -29,6 +29,7 @@
 5. bob the fish (theme) https://blog.devopscomplete.com/fishing-with-bob-the-fish-2decd3a2f87
 6. omf install https://github.com/jhillyerd/plugin-git
 7. https://www.yippeecode.com/topics/upgrade-to-openjdk-temurin-using-homebrew/
+8. https://github.com/jorgebucaran/nvm.fish
 
 
 ## CLI apps
