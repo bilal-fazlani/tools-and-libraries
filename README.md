@@ -30,6 +30,7 @@
 6. omf install https://github.com/jhillyerd/plugin-git
 7. https://www.yippeecode.com/topics/upgrade-to-openjdk-temurin-using-homebrew/
 8. https://github.com/jorgebucaran/nvm.fish
+9. java manager https://github.com/shyiko/jabba
 
 
 ## CLI apps
