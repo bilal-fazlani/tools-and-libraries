@@ -43,6 +43,8 @@ coursier bootstrap com.bilal::httpproxy:0.1-SNAPSHOT -M com.example.Server -o se
 - http-promt: interactive command-line HTTP client featuring autocomplete and syntax highlighting http://http-prompt.com/
 
 ## GUI apps
+
+1. https://1password.com
 1. Fork: gui for git https://git-fork.com/
 1. IINA: The modern media player for macOS. https://iina.io/
 1. BitBar: https://github.com/matryer/bitbar
@@ -51,3 +53,12 @@ coursier bootstrap com.bilal::httpproxy:0.1-SNAPSHOT -M com.example.Server -o se
 1. Jetbrains Toolbox : One-stop access to all your coding tools https://www.jetbrains.com/toolbox/
 1. Visual Studio Code : Editor https://code.visualstudio.com/
 https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2
+1. Maccy https://maccy.app
+1. Craft (organised writing app) https://www.craft.do
+
+
+
+## Browser extensions
+
+1. Dark Night https://apps.apple.com/us/app/dark-night-mode-for-safari/id1592844577
+1. 
