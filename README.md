@@ -55,6 +55,7 @@ coursier bootstrap com.bilal::httpproxy:0.1-SNAPSHOT -M com.example.Server -o se
 https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2
 1. Maccy https://maccy.app
 1. Craft (organised writing app) https://www.craft.do
+1. Omnigraffle: https://www.omnigroup.com/omnigraffle
 
 
 
