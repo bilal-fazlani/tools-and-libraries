@@ -57,6 +57,7 @@ https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-
 1. Maccy https://maccy.app
 1. Craft (organised writing app) https://www.craft.do
 1. Omnigraffle: https://www.omnigroup.com/omnigraffle
+    1. https://app.eraser.io/ might be better
 
 
 
