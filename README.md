@@ -64,4 +64,4 @@ https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-
 ## Browser extensions
 
 1. Dark Night https://apps.apple.com/us/app/dark-night-mode-for-safari/id1592844577
-1. 
+1. Retro Txt https://chromewebstore.google.com/detail/retrotxt/gkjkgilckngllkopkogcaiojfajanahn for displaying ascii text on on browser
