@@ -59,7 +59,11 @@ https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-
 1. Omnigraffle: https://www.omnigroup.com/omnigraffle
     1. https://app.eraser.io/ might be better
 
+## AI
 
+1. cloude sonet 3.5 model. cline vscode extension. 
+1. cloude desktop client
+1. lovable.dev
 
 ## Browser extensions
 
